@@ -1,0 +1,665 @@
+{
+  "image_file": "cd0ea86d-9155-4df2-aeed-5c94c759839d.png",
+  "error_bars": [
+    {
+      "lineName": "Cendakimab_3_mg/kg ",
+      "points": [
+        {
+          "data_point": {
+            "x": 174.0,
+            "y": 530.5
+          },
+          "upper_error_bar": {
+            "x": 174.0,
+            "y": 521.0
+          },
+          "lower_error_bar": {
+            "x": 174.0,
+            "y": 539.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 219.0,
+            "y": 549.5
+          },
+          "upper_error_bar": {
+            "x": 219.0,
+            "y": 540.0
+          },
+          "lower_error_bar": {
+            "x": 219.0,
+            "y": 558.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 264.0,
+            "y": 546.5
+          },
+          "upper_error_bar": {
+            "x": 264.0,
+            "y": 537.0
+          },
+          "lower_error_bar": {
+            "x": 264.0,
+            "y": 555.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 309.0,
+            "y": 547.5
+          },
+          "upper_error_bar": {
+            "x": 309.0,
+            "y": 538.0
+          },
+          "lower_error_bar": {
+            "x": 309.0,
+            "y": 556.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 398.0,
+            "y": 557.5
+          },
+          "upper_error_bar": {
+            "x": 398.0,
+            "y": 548.0
+          },
+          "lower_error_bar": {
+            "x": 398.0,
+            "y": 566.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 489.0,
+            "y": 562.5
+          },
+          "upper_error_bar": {
+            "x": 489.0,
+            "y": 553.0
+          },
+          "lower_error_bar": {
+            "x": 489.0,
+            "y": 571.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 847.0,
+            "y": 560.5
+          },
+          "upper_error_bar": {
+            "x": 847.0,
+            "y": 551.0
+          },
+          "lower_error_bar": {
+            "x": 847.0,
+            "y": 569.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 669.0,
+            "y": 554.5
+          },
+          "upper_error_bar": {
+            "x": 669.0,
+            "y": 545.0
+          },
+          "lower_error_bar": {
+            "x": 669.0,
+            "y": 563.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 161.0,
+            "y": 526.5
+          },
+          "upper_error_bar": {
+            "x": 161.0,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 161.0,
+            "y": 535.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 154.0,
+            "y": 520.5
+          },
+          "upper_error_bar": {
+            "x": 154.0,
+            "y": 511.0
+          },
+          "lower_error_bar": {
+            "x": 154.0,
+            "y": 529.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 148.0,
+            "y": 509.5
+          },
+          "upper_error_bar": {
+            "x": 148.0,
+            "y": 500.0
+          },
+          "lower_error_bar": {
+            "x": 148.0,
+            "y": 518.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 142.0,
+            "y": 496.5
+          },
+          "upper_error_bar": {
+            "x": 142.0,
+            "y": 487.0
+          },
+          "lower_error_bar": {
+            "x": 142.0,
+            "y": 505.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 135.0,
+            "y": 479.5
+          },
+          "upper_error_bar": {
+            "x": 135.0,
+            "y": 470.0
+          },
+          "lower_error_bar": {
+            "x": 135.0,
+            "y": 488.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 132.0,
+            "y": 467.5
+          },
+          "upper_error_bar": {
+            "x": 132.0,
+            "y": 458.0
+          },
+          "lower_error_bar": {
+            "x": 132.0,
+            "y": 476.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 131.0,
+            "y": 455.5
+          },
+          "upper_error_bar": {
+            "x": 131.0,
+            "y": 446.0
+          },
+          "lower_error_bar": {
+            "x": 131.0,
+            "y": 464.0
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "lineName": "Cendakimab_0.3_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 130.0,
+            "y": 561.5
+          },
+          "upper_error_bar": {
+            "x": 130.0,
+            "y": 552.0
+          },
+          "lower_error_bar": {
+            "x": 130.0,
+            "y": 570.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 139.0,
+            "y": 562.5
+          },
+          "upper_error_bar": {
+            "x": 139.0,
+            "y": 553.0
+          },
+          "lower_error_bar": {
+            "x": 139.0,
+            "y": 571.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 145.0,
+            "y": 562.5
+          },
+          "upper_error_bar": {
+            "x": 145.0,
+            "y": 553.0
+          },
+          "lower_error_bar": {
+            "x": 145.0,
+            "y": 571.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 151.0,
+            "y": 562.5
+          },
+          "upper_error_bar": {
+            "x": 151.0,
+            "y": 553.0
+          },
+          "lower_error_bar": {
+            "x": 151.0,
+            "y": 571.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 161.0,
+            "y": 562.5
+          },
+          "upper_error_bar": {
+            "x": 161.0,
+            "y": 553.0
+          },
+          "lower_error_bar": {
+            "x": 161.0,
+            "y": 571.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 174.0,
+            "y": 563.5
+          },
+          "upper_error_bar": {
+            "x": 174.0,
+            "y": 554.0
+          },
+          "lower_error_bar": {
+            "x": 174.0,
+            "y": 572.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 219.0,
+            "y": 562.5
+          },
+          "upper_error_bar": {
+            "x": 219.0,
+            "y": 553.0
+          },
+          "lower_error_bar": {
+            "x": 219.0,
+            "y": 571.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 264.0,
+            "y": 565.5
+          },
+          "upper_error_bar": {
+            "x": 264.0,
+            "y": 556.0
+          },
+          "lower_error_bar": {
+            "x": 264.0,
+            "y": 574.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 310.0,
+            "y": 564.5
+          },
+          "upper_error_bar": {
+            "x": 310.0,
+            "y": 555.0
+          },
+          "lower_error_bar": {
+            "x": 310.0,
+            "y": 573.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 399.0,
+            "y": 565.5
+          },
+          "upper_error_bar": {
+            "x": 399.0,
+            "y": 556.0
+          },
+          "lower_error_bar": {
+            "x": 399.0,
+            "y": 574.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 488.0,
+            "y": 565.5
+          },
+          "upper_error_bar": {
+            "x": 488.0,
+            "y": 556.0
+          },
+          "lower_error_bar": {
+            "x": 488.0,
+            "y": 574.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 669.0,
+            "y": 565.5
+          },
+          "upper_error_bar": {
+            "x": 669.0,
+            "y": 556.0
+          },
+          "lower_error_bar": {
+            "x": 669.0,
+            "y": 574.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 847.0,
+            "y": 565.5
+          },
+          "upper_error_bar": {
+            "x": 847.0,
+            "y": 556.0
+          },
+          "lower_error_bar": {
+            "x": 847.0,
+            "y": 574.0
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "lineName": "Cendakimab_10_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 133.02017211914062,
+            "y": 328.5947570800781
+          },
+          "upper_error_bar": {
+            "x": 133.02017211914062,
+            "y": 319.0
+          },
+          "lower_error_bar": {
+            "x": 133.02017211914062,
+            "y": 337.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 136.52894592285156,
+            "y": 337.8052673339844
+          },
+          "upper_error_bar": {
+            "x": 136.52894592285156,
+            "y": 328.0
+          },
+          "lower_error_bar": {
+            "x": 136.52894592285156,
+            "y": 346.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 142.23069763183594,
+            "y": 375.0859680175781
+          },
+          "upper_error_bar": {
+            "x": 142.23069763183594,
+            "y": 366.0
+          },
+          "lower_error_bar": {
+            "x": 142.23069763183594,
+            "y": 384.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 147.9324493408203,
+            "y": 411.0508728027344
+          },
+          "upper_error_bar": {
+            "x": 147.9324493408203,
+            "y": 402.0
+          },
+          "lower_error_bar": {
+            "x": 147.9324493408203,
+            "y": 420.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 154.9499969482422,
+            "y": 428.5947265625
+          },
+          "upper_error_bar": {
+            "x": 154.9499969482422,
+            "y": 415.0
+          },
+          "lower_error_bar": {
+            "x": 154.9499969482422,
+            "y": 440.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 161.09034729003906,
+            "y": 440.43682861328125
+          },
+          "upper_error_bar": {
+            "x": 161.09034729003906,
+            "y": 431.0
+          },
+          "lower_error_bar": {
+            "x": 161.09034729003906,
+            "y": 449.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 174.2482452392578,
+            "y": 454.471923828125
+          },
+          "upper_error_bar": {
+            "x": 174.2482452392578,
+            "y": 445.0
+          },
+          "lower_error_bar": {
+            "x": 174.2482452392578,
+            "y": 463.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 218.54649353027344,
+            "y": 479.471923828125
+          },
+          "upper_error_bar": {
+            "x": 218.54649353027344,
+            "y": 470.0
+          },
+          "lower_error_bar": {
+            "x": 218.54649353027344,
+            "y": 488.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 263.721923828125,
+            "y": 496.1385803222656
+          },
+          "upper_error_bar": {
+            "x": 263.721923828125,
+            "y": 487.0
+          },
+          "lower_error_bar": {
+            "x": 263.721923828125,
+            "y": 505.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 308.7939758300781,
+            "y": 506.3491516113281
+          },
+          "upper_error_bar": {
+            "x": 308.7939758300781,
+            "y": 497.0
+          },
+          "lower_error_bar": {
+            "x": 308.7939758300781,
+            "y": 515.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 398.8204650878906,
+            "y": 526.6492309570312
+          },
+          "upper_error_bar": {
+            "x": 398.8204650878906,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 398.8204650878906,
+            "y": 535.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 488.8469543457031,
+            "y": 539.0057983398438
+          },
+          "upper_error_bar": {
+            "x": 488.8469543457031,
+            "y": 530.0
+          },
+          "lower_error_bar": {
+            "x": 488.8469543457031,
+            "y": 548.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 847.1876220703125,
+            "y": 561.0711059570312
+          },
+          "upper_error_bar": {
+            "x": 847.1876220703125,
+            "y": 552.0
+          },
+          "lower_error_bar": {
+            "x": 847.1876220703125,
+            "y": 570.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 668.89990234375,
+            "y": 553.1276245117188
+          },
+          "upper_error_bar": {
+            "x": 668.89990234375,
+            "y": 544.0
+          },
+          "lower_error_bar": {
+            "x": 668.89990234375,
+            "y": 562.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 130.3885955810547,
+            "y": 311.0508728027344
+          },
+          "upper_error_bar": {
+            "x": 130.3885955810547,
+            "y": 302.0
+          },
+          "lower_error_bar": {
+            "x": 130.3885955810547,
+            "y": 320.0
+          },
+          "confidence": 0.95
+        }
+      ]
+    }
+  ]
+}

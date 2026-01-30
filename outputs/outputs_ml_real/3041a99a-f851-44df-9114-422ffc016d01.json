@@ -1,0 +1,455 @@
+{
+  "image_file": "3041a99a-f851-44df-9114-422ffc016d01.png",
+  "error_bars": [
+    {
+      "lineName": "Trastuzumab_emtansine_2.4_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 170.0,
+            "y": 134.0
+          },
+          "upper_error_bar": {
+            "x": 170.0,
+            "y": 119.0
+          },
+          "lower_error_bar": {
+            "x": 170.0,
+            "y": 148.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 175.2734375,
+            "y": 135.712890625
+          },
+          "upper_error_bar": {
+            "x": 175.2734375,
+            "y": 125.0
+          },
+          "lower_error_bar": {
+            "x": 175.2734375,
+            "y": 145.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 201.8746802920386,
+            "y": 150.5418904622395
+          },
+          "upper_error_bar": {
+            "x": 201.8746802920386,
+            "y": 134.0
+          },
+          "lower_error_bar": {
+            "x": 201.8746802920386,
+            "y": 165.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 234.0,
+            "y": 161.0
+          },
+          "upper_error_bar": {
+            "x": 234.0,
+            "y": 152.0
+          },
+          "lower_error_bar": {
+            "x": 234.0,
+            "y": 170.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 300.92229933965757,
+            "y": 200.06569998604903
+          },
+          "upper_error_bar": {
+            "x": 300.92229933965757,
+            "y": 190.0
+          },
+          "lower_error_bar": {
+            "x": 300.92229933965757,
+            "y": 209.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 399.96993291945665,
+            "y": 214.3514142717633
+          },
+          "upper_error_bar": {
+            "x": 399.96993291945665,
+            "y": 203.0
+          },
+          "lower_error_bar": {
+            "x": 399.96993291945665,
+            "y": 225.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 497.0,
+            "y": 236.0
+          },
+          "upper_error_bar": {
+            "x": 497.0,
+            "y": 220.0
+          },
+          "lower_error_bar": {
+            "x": 497.0,
+            "y": 251.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 629.0,
+            "y": 275.0
+          },
+          "upper_error_bar": {
+            "x": 629.0,
+            "y": 249.0
+          },
+          "lower_error_bar": {
+            "x": 629.0,
+            "y": 299.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 728.0,
+            "y": 323.0
+          },
+          "upper_error_bar": {
+            "x": 728.0,
+            "y": 287.0
+          },
+          "lower_error_bar": {
+            "x": 728.0,
+            "y": 356.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 857.0,
+            "y": 414.0
+          },
+          "upper_error_bar": {
+            "x": 857.0,
+            "y": 314.0
+          },
+          "lower_error_bar": {
+            "x": 857.0,
+            "y": 509.0
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "lineName": "Trastuzumab_emtansine_1.8_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 165.0,
+            "y": 166.0
+          },
+          "upper_error_bar": {
+            "x": 165.0,
+            "y": 157.0
+          },
+          "lower_error_bar": {
+            "x": 165.0,
+            "y": 175.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 198.0,
+            "y": 160.0
+          },
+          "upper_error_bar": {
+            "x": 198.0,
+            "y": 146.0
+          },
+          "lower_error_bar": {
+            "x": 198.0,
+            "y": 173.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 229.0,
+            "y": 188.0
+          },
+          "upper_error_bar": {
+            "x": 229.0,
+            "y": 176.0
+          },
+          "lower_error_bar": {
+            "x": 229.0,
+            "y": 200.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 393.0,
+            "y": 241.0
+          },
+          "upper_error_bar": {
+            "x": 393.0,
+            "y": 229.0
+          },
+          "lower_error_bar": {
+            "x": 393.0,
+            "y": 253.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 495.20802089146184,
+            "y": 266.73236665271565
+          },
+          "upper_error_bar": {
+            "x": 495.20802089146184,
+            "y": 252.0
+          },
+          "lower_error_bar": {
+            "x": 495.20802089146184,
+            "y": 279.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 625.6842113676522,
+            "y": 330.54189046223945
+          },
+          "upper_error_bar": {
+            "x": 625.6842113676522,
+            "y": 311.0
+          },
+          "lower_error_bar": {
+            "x": 625.6842113676522,
+            "y": 347.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 722.8270685105093,
+            "y": 385.77998570033463
+          },
+          "upper_error_bar": {
+            "x": 722.8270685105093,
+            "y": 354.0
+          },
+          "lower_error_bar": {
+            "x": 722.8270685105093,
+            "y": 413.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 299.0234375,
+            "y": 201.962890625
+          },
+          "upper_error_bar": {
+            "x": 299.0234375,
+            "y": 190.0
+          },
+          "lower_error_bar": {
+            "x": 299.0234375,
+            "y": 212.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 170.44611612955723,
+            "y": 146.7323666527157
+          },
+          "upper_error_bar": {
+            "x": 170.44611612955723,
+            "y": 133.0
+          },
+          "lower_error_bar": {
+            "x": 170.44611612955723,
+            "y": 159.0
+          },
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "lineName": "Trastuzumab_emtansine_3.6_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 173.30325172061004,
+            "y": 101.97046189081097
+          },
+          "upper_error_bar": {
+            "x": 173.30325172061004,
+            "y": 92.0
+          },
+          "lower_error_bar": {
+            "x": 173.30325172061004,
+            "y": 110.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 207.0,
+            "y": 128.0
+          },
+          "upper_error_bar": {
+            "x": 207.0,
+            "y": 113.0
+          },
+          "lower_error_bar": {
+            "x": 207.0,
+            "y": 142.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 238.0,
+            "y": 137.0
+          },
+          "upper_error_bar": {
+            "x": 238.0,
+            "y": 124.0
+          },
+          "lower_error_bar": {
+            "x": 238.0,
+            "y": 149.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 305.68420410156233,
+            "y": 154.35141427176333
+          },
+          "upper_error_bar": {
+            "x": 305.68420410156233,
+            "y": 145.0
+          },
+          "lower_error_bar": {
+            "x": 305.68420410156233,
+            "y": 163.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 403.0,
+            "y": 190.0
+          },
+          "upper_error_bar": {
+            "x": 403.0,
+            "y": 178.0
+          },
+          "lower_error_bar": {
+            "x": 403.0,
+            "y": 201.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 502.0,
+            "y": 213.0
+          },
+          "upper_error_bar": {
+            "x": 502.0,
+            "y": 195.0
+          },
+          "lower_error_bar": {
+            "x": 502.0,
+            "y": 229.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 632.0,
+            "y": 250.0
+          },
+          "upper_error_bar": {
+            "x": 632.0,
+            "y": 226.0
+          },
+          "lower_error_bar": {
+            "x": 632.0,
+            "y": 273.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 732.3508853004089,
+            "y": 288.6371285574775
+          },
+          "upper_error_bar": {
+            "x": 732.3508853004089,
+            "y": 257.0
+          },
+          "lower_error_bar": {
+            "x": 732.3508853004089,
+            "y": 317.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 861.0,
+            "y": 335.0
+          },
+          "upper_error_bar": {
+            "x": 861.0,
+            "y": 277.0
+          },
+          "lower_error_bar": {
+            "x": 861.0,
+            "y": 387.0
+          },
+          "confidence": 0.95
+        },
+        {
+          "data_point": {
+            "x": 179.9699183872767,
+            "y": 105.77998570033478
+          },
+          "upper_error_bar": {
+            "x": 179.9699183872767,
+            "y": 96.0
+          },
+          "lower_error_bar": {
+            "x": 179.9699183872767,
+            "y": 114.0
+          },
+          "confidence": 0.95
+        }
+      ]
+    }
+  ]
+}

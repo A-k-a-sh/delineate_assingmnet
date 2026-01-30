@@ -34,9 +34,6 @@ wheels/
 dataset/
 datasets/
 data/
-*.png
-*.jpg
-*.jpeg
 
 # Kaggle
 kaggle/
@@ -55,8 +52,7 @@ kaggle/
 Thumbs.db
 
 # Outputs
-outputs/
-outputs_*/
+
 checkpoints/
 results/
 *.zip
